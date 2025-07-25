@@ -1,0 +1,18 @@
+2025-07-20 17:49:49.398 -07:00 [INF] Now listening on: https://localhost:7014
+2025-07-20 17:49:49.431 -07:00 [INF] Now listening on: http://localhost:5084
+2025-07-20 17:49:49.503 -07:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-07-20 17:49:49.503 -07:00 [INF] Hosting environment: Development
+2025-07-20 17:49:49.504 -07:00 [INF] Content root path: E:\ProjectBasedDemo\BasicToAdvanceByKudvenkatCollegeApp\BasicToAdvanceByKudvenkatCollegeApp
+2025-07-20 17:49:50.383 -07:00 [INF] Request starting HTTP/2 GET https://localhost:7014/swagger/index.html - null null
+2025-07-20 17:49:50.649 -07:00 [INF] Request finished HTTP/2 GET https://localhost:7014/swagger/index.html - 200 null text/html;charset=utf-8 273.7308ms
+2025-07-20 17:49:50.664 -07:00 [INF] Request starting HTTP/2 GET https://localhost:7014/swagger/index.css - null null
+2025-07-20 17:49:50.669 -07:00 [INF] Request starting HTTP/2 GET https://localhost:7014/swagger/index.js - null null
+2025-07-20 17:49:50.671 -07:00 [INF] Request starting HTTP/2 GET https://localhost:7014/_framework/aspnetcore-browser-refresh.js - null null
+2025-07-20 17:49:50.691 -07:00 [INF] Request finished HTTP/2 GET https://localhost:7014/swagger/index.js - 200 null application/javascript;charset=utf-8 22.4329ms
+2025-07-20 17:49:50.710 -07:00 [INF] Request starting HTTP/2 GET https://localhost:7014/_vs/browserLink - null null
+2025-07-20 17:49:50.727 -07:00 [INF] Request finished HTTP/2 GET https://localhost:7014/_framework/aspnetcore-browser-refresh.js - 200 13822 application/javascript; charset=utf-8 55.6565ms
+2025-07-20 17:49:50.737 -07:00 [INF] Sending file. Request path: '/index.css'. Physical path: 'N/A'
+2025-07-20 17:49:50.742 -07:00 [INF] Request finished HTTP/2 GET https://localhost:7014/swagger/index.css - 200 202 text/css 77.2326ms
+2025-07-20 17:49:50.837 -07:00 [INF] Request finished HTTP/2 GET https://localhost:7014/_vs/browserLink - 200 null text/javascript; charset=UTF-8 129.4822ms
+2025-07-20 17:49:50.894 -07:00 [INF] Request starting HTTP/2 GET https://localhost:7014/swagger/v1/swagger.json - null null
+2025-07-20 17:49:50.935 -07:00 [INF] Request finished HTTP/2 GET https://localhost:7014/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 40.8525ms

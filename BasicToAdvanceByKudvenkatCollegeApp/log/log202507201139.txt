@@ -1,0 +1,2 @@
+2025-07-20 11:39:59.929 -07:00 [INF] Now listening on: https://localhost:7014
+2025-07-20 11:39:59.966 -07:00 [INF] Now listening on: http://localhost:5084
