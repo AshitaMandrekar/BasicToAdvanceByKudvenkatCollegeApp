@@ -28,7 +28,7 @@ namespace BasicToAdvanceByKudvenkatCollegeApp.Controllers
         //}
         // this  code was for DI [ends] ///
 
-        // Implementing in built loggings [start] // 07202025 // check this
+        // Implementing in built loggings [start] // 07202025
 
        
         private readonly IStudentRepository _studRepository; // Implementing Repository design pattern using Student Interface - part 51,52
